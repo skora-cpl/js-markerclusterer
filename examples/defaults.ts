@@ -20,7 +20,7 @@ import { MarkerClusterer } from "../src";
 import trees from "./trees.json";
 
 const mapOptions: google.maps.MapOptions = {
-  center: { lat: 40.7128, lng: -73.85 },
+  center: { lat: 41.45, lng: -81.85 },
   zoom: 12,
   mapId: MAP_ID,
 };
