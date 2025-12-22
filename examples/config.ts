@@ -19,7 +19,7 @@ import { MarkerUtils } from "../src/marker-utils";
 
 export const MAP_ID = "DEMO_MAP_ID";
 
-const DEFAULT_KEY = "AIzaSyDhRjl83cPVWeaEer-SnKIw7GTjBuqWxXI";
+const DEFAULT_KEY = "AIzaSyANUpyc-3-y-gNR5ZeWJxzDQ41Voy_fO6s";
 
 export const getLoaderOptions = (): LoaderOptions => ({
   apiKey: localStorage.getItem("gmaps-key") ?? DEFAULT_KEY,
