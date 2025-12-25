@@ -65,6 +65,7 @@ export function createMarker(map: google.maps.Map, lat: number, lng: number) {
     return new google.maps.marker.AdvancedMarkerElement({
       map,
       position: { lat, lng },
+      gmpClickable: true,
     });
   }
 
