@@ -66,6 +66,7 @@ export function createMarker(map: google.maps.Map, lat: number, lng: number) {
       map,
       position: { lat, lng },
       gmpClickable: true,
+      title: `i'm a chump and`,
     });
   }
 

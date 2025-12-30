@@ -30,9 +30,23 @@ new Loader(getLoaderOptions()).load().then(() => {
 
   const map = new google.maps.Map(element, mapOptions);
 
+  const myWindow = new google.maps.InfoWindow();
+
   const markers = trees.map(({ geometry }) =>
     createMarker(map, geometry.coordinates[1], geometry.coordinates[0])
   );
+
+  // markers.forEach((marker) => console.log(marker));
+
+  // now, iterate through that list of markers and make an event listener for each of them
+  markers.forEach((marker) => {
+    marker.addListener("click", ({ domEvent, latLng }) => {
+      const { target } = domEvent;
+      myWindow.close();
+      myWindow.setContent(marker.title);
+      myWindow.open(marker.map, marker);
+    });
+  });
 
   const markerCluster = new MarkerClusterer({
     markers,
