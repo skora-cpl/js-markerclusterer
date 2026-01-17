@@ -142,26 +142,14 @@
     {
       "geometry": {
         "coordinates": [
-          -81.67284130463958,
-          41.43268680800932
-        ],
-        "type": "Point"
-      },
-      "id": 10,
-      "properties": {
-        "name": "author 3"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           -81.63499831401275,
           41.4953857816285
         ],
         "type": "Point"
       },
-      "properties": {},
+      "properties": {
+        "name": ""
+      },
       "type": "Feature",
       "id": 11
     },
@@ -173,8 +161,12 @@
         ],
         "type": "Point"
       },
-      "properties": {},
-      "type": "Feature"
+      "properties": {
+        "author": " George Bibel",
+        "name": "Bedford"
+      },
+      "type": "Feature",
+      "id": 12
     },
     {
       "geometry": {
@@ -184,73 +176,9 @@
         ],
         "type": "Point"
       },
-      "properties": {},
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.79263798158189,
-          41.449977996718104
-        ],
-        "type": "Point"
+      "properties": {
+        "name": ""
       },
-      "properties": {},
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.79263798158189,
-          41.449977996718104
-        ],
-        "type": "Point"
-      },
-      "properties": {},
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.79263798158189,
-          41.449977996718104
-        ],
-        "type": "Point"
-      },
-      "properties": {},
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.79263798158189,
-          41.449977996718104
-        ],
-        "type": "Point"
-      },
-      "properties": {},
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.79263798158189,
-          41.449977996718104
-        ],
-        "type": "Point"
-      },
-      "properties": {},
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.79263798158189,
-          41.449977996718104
-        ],
-        "type": "Point"
-      },
-      "properties": {},
       "type": "Feature"
     },
     {
@@ -262,10 +190,78 @@
         "type": "Point"
       },
       "properties": {
-        "name": "lakewood"
+        "name": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.79263798158189,
+          41.449977996718104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.79263798158189,
+          41.449977996718104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lakewood",
+        "author": "Mary Dowling Daley"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.79263798158189,
+          41.449977996718104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lakewood",
+        "author": "Herbert Gold"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.79263798158189,
+          41.449977996718104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lakewood",
+        "author": "Clare Winger Harris"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.79263798158189,
+          41.449977996718104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": ""
       },
       "type": "Feature",
-      "id": 20
+      "id": 18
     },
     {
       "geometry": {
@@ -282,7 +278,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "akron"
+        "name": "akron",
+        "author": "Cynthia Rylant"
       },
       "geometry": {
         "coordinates": [
@@ -295,7 +292,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "akron"
+        "name": "akron",
+        "author": "David Giffels"
       },
       "geometry": {
         "coordinates": [
@@ -308,7 +306,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "akron"
+        "name": "akron",
+        "author": "Elton Glaser"
       },
       "geometry": {
         "coordinates": [
@@ -321,7 +320,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "akron"
+        "name": "akron",
+        "author": "James Renner"
       },
       "geometry": {
         "coordinates": [
@@ -334,7 +334,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "akron"
+        "name": "akron",
+        "author": "John W. Dean"
       },
       "geometry": {
         "coordinates": [
@@ -347,7 +348,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "akron"
+        "name": "akron",
+        "author": "Michael Buckley"
       },
       "geometry": {
         "coordinates": [
@@ -360,7 +362,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "akron"
+        "name": "akron",
+        "author": "Rita Dove"
       },
       "geometry": {
         "coordinates": [
@@ -373,7 +376,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "akron"
+        "name": "akron",
+        "author": "Tom Batiuk"
       },
       "geometry": {
         "coordinates": [
@@ -386,7 +390,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "akron"
+        "name": "akron",
+        "author": "Ruth McKenney"
       },
       "geometry": {
         "coordinates": [
@@ -399,7 +404,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "akron"
+        "name": "akron",
+        "author": "Amanda Flower"
       },
       "geometry": {
         "coordinates": [
@@ -407,7 +413,8 @@
           41.081853253758084
         ],
         "type": "Point"
-      }
+      },
+      "id": 31
     },
     {
       "type": "Feature",
@@ -422,14 +429,17 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "youngstown"
+      },
       "geometry": {
         "coordinates": [
           -80.66443316916688,
           41.123467854682076
         ],
         "type": "Point"
-      }
+      },
+      "id": 33
     },
     {
       "type": "Feature",
@@ -473,6 +483,125 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Cleveland Heights",
+        "author": "Alix Kates Shulman"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.56564450180568,
+          41.52772706235095
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cleveland Heights",
+        "author": "Bill Watterson"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.56564450180568,
+          41.52772706235095
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cleveland Heights",
+        "author": "Dan Chaon"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.56564450180568,
+          41.52772706235095
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cleveland Heights",
+        "author": "Harvey Pekar"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.56564450180568,
+          41.52772706235095
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cleveland Heights",
+        "author": "Sarah Willis"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.56564450180568,
+          41.52772706235095
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cleveland Heights",
+        "author": "Sheila Schwartz"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.56564450180568,
+          41.52772706235095
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cleveland Heights",
+        "author": "Tricia Springstubb"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.56564450180568,
+          41.52772706235095
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cleveland Heights"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.56564450180568,
+          41.52772706235095
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cleveland Heights"
       },
       "geometry": {
@@ -498,7 +627,7 @@
       },
       "id": 38
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "name": "euclid"
@@ -511,7 +640,7 @@
         "type": "Point"
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "name": "euclid"
