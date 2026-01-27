@@ -1,670 +1,121 @@
 [
-    {
-      "geometry": {
-        "coordinates": [
-          -81.67284130463958,
-          41.43268680800932
-        ],
-        "type": "Point"
-      },
-      "id": 0,
-      "properties": {
-        "name": "p1"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.67284130463958,
-          41.43268680800932
-        ],
-        "type": "Point"
-      },
-      "id": 1,
-      "properties": {
-        "name": "p2"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.67284130463958,
-          41.43268680800932
-        ],
-        "type": "Point"
-      },
-      "id": 1,
-      "properties": {
-        "name": "p2"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.67284130463958,
-          41.43268680800932
-        ],
-        "type": "Point"
-      },
-      "id": 1,
-      "properties": {
-        "name": "luke"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.67284130463958,
-          41.43268680800932
-        ],
-        "type": "Point"
-      },
-      "id": 1,
-      "properties": {
-        "name": "ty jeromes"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.67284130463958,
-          41.43268680800932
-        ],
-        "type": "Point"
-      },
-      "id": 1,
-      "properties": {
-        "name": "p2"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.67284130463958,
-          41.43268680800932
-        ],
-        "type": "Point"
-      },
-      "id": 1,
-      "properties": {
-        "name": "p2"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.67284130463958,
-          41.43268680800932
-        ],
-        "type": "Point"
-      },
-      "id": 1,
-      "properties": {
-        "name": "scott farkass"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.67284130463958,
-          41.43268680800932
-        ],
-        "type": "Point"
-      },
-      "id": 1,
-      "properties": {
-        "name": "alanis"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.67284130463958,
-          41.43268680800932
-        ],
-        "type": "Point"
-      },
-      "id": 1,
-      "properties": {
-        "name": "twaub"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.63499831401275,
-          41.4953857816285
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": ""
-      },
-      "type": "Feature",
-      "id": 11
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.53183811392933,
-          41.4147535108099
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "author": " George Bibel",
-        "name": "Bedford"
-      },
-      "type": "Feature",
-      "id": 12
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.79263798158189,
-          41.449977996718104
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.79263798158189,
-          41.449977996718104
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.79263798158189,
-          41.449977996718104
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.79263798158189,
-          41.449977996718104
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": "Lakewood",
-        "author": "Mary Dowling Daley"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.79263798158189,
-          41.449977996718104
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": "Lakewood",
-        "author": "Herbert Gold"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.79263798158189,
-          41.449977996718104
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": "Lakewood",
-        "author": "Clare Winger Harris"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.79263798158189,
-          41.449977996718104
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "name": ""
-      },
-      "type": "Feature",
-      "id": 18
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -81.7476704297532,
-          41.356343734855756
-        ],
-        "type": "Point"
-      },
-      "id": 14,
-      "properties": {},
-      "type": "Feature"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "akron",
-        "author": "Cynthia Rylant"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.51710829311352,
-          41.081853253758084
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "akron",
-        "author": "David Giffels"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.51710829311352,
-          41.081853253758084
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "akron",
-        "author": "Elton Glaser"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.51710829311352,
-          41.081853253758084
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "akron",
-        "author": "James Renner"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.51710829311352,
-          41.081853253758084
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "akron",
-        "author": "John W. Dean"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.51710829311352,
-          41.081853253758084
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "akron",
-        "author": "Michael Buckley"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.51710829311352,
-          41.081853253758084
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "akron",
-        "author": "Rita Dove"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.51710829311352,
-          41.081853253758084
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "akron",
-        "author": "Tom Batiuk"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.51710829311352,
-          41.081853253758084
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "akron",
-        "author": "Ruth McKenney"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.51710829311352,
-          41.081853253758084
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "akron",
-        "author": "Amanda Flower"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.51710829311352,
-          41.081853253758084
-        ],
-        "type": "Point"
-      },
-      "id": 31
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          -83.64287736252265,
-          41.052874668943474
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "youngstown"
-      },
-      "geometry": {
-        "coordinates": [
-          -80.66443316916688,
-          41.123467854682076
-        ],
-        "type": "Point"
-      },
-      "id": 33
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          -80.59055860572853,
-          40.35384516214694
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "wooster"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.97100701464873,
-          40.80742432500648
-        ],
-        "type": "Point"
-      },
-      "id": 36
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "berea"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.86094455025055,
-          41.362667600664594
-        ],
-        "type": "Point"
-      },
-      "id": 37
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cleveland Heights",
-        "author": "Alix Kates Shulman"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.56564450180568,
-          41.52772706235095
-        ],
-        "type": "Point"
-      },
-      "id": 37
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cleveland Heights",
-        "author": "Bill Watterson"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.56564450180568,
-          41.52772706235095
-        ],
-        "type": "Point"
-      },
-      "id": 37
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cleveland Heights",
-        "author": "Dan Chaon"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.56564450180568,
-          41.52772706235095
-        ],
-        "type": "Point"
-      },
-      "id": 37
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cleveland Heights",
-        "author": "Harvey Pekar"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.56564450180568,
-          41.52772706235095
-        ],
-        "type": "Point"
-      },
-      "id": 37
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cleveland Heights",
-        "author": "Sarah Willis"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.56564450180568,
-          41.52772706235095
-        ],
-        "type": "Point"
-      },
-      "id": 37
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cleveland Heights",
-        "author": "Sheila Schwartz"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.56564450180568,
-          41.52772706235095
-        ],
-        "type": "Point"
-      },
-      "id": 37
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cleveland Heights",
-        "author": "Tricia Springstubb"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.56564450180568,
-          41.52772706235095
-        ],
-        "type": "Point"
-      },
-      "id": 37
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cleveland Heights"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.56564450180568,
-          41.52772706235095
-        ],
-        "type": "Point"
-      },
-      "id": 37
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cleveland Heights"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.56564450180568,
-          41.52772706235095
-        ],
-        "type": "Point"
-      },
-      "id": 37
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "euclid"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.53012441986517,
-          41.593819024076566
-        ],
-        "type": "Point"
-      },
-      "id": 38
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "euclid"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.53012441986517,
-          41.593819024076566
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "euclid"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.53012441986517,
-          41.593819024076566
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "mentor"
-      },
-      "geometry": {
-        "coordinates": [
-          -81.34936054637343,
-          41.66653644405707
-        ],
-        "type": "Point"
-      },
-      "id": 39
-    }
+    { "type": "Feature", "properties": { "name": "Akron" }, "geometry": { "type": "Point", "coordinates": [-81.5191, 41.0814] } },
+    { "type": "Feature", "properties": { "name": "Alliance" }, "geometry": { "type": "Point", "coordinates": [-81.1059, 40.9159] } },
+    { "type": "Feature", "properties": { "name": "Ashland" }, "geometry": { "type": "Point", "coordinates": [-82.3179, 40.8687] } },
+    { "type": "Feature", "properties": { "name": "Ashtabula" }, "geometry": { "type": "Point", "coordinates": [-80.7898, 41.8651] } },
+    { "type": "Feature", "properties": { "name": "Athens" }, "geometry": { "type": "Point", "coordinates": [-82.1013, 39.3292] } },
+    { "type": "Feature", "properties": { "name": "Beachwood" }, "geometry": { "type": "Point", "coordinates": [-81.5085, 41.4645] } },
+    { "type": "Feature", "properties": { "name": "Bedford" }, "geometry": { "type": "Point", "coordinates": [-81.5357, 41.3920] } },
+    { "type": "Feature", "properties": { "name": "Belden" }, "geometry": { "type": "Point", "coordinates": [-82.0232, 41.2292] } },
+    { "type": "Feature", "properties": { "name": "Bellaire" }, "geometry": { "type": "Point", "coordinates": [-80.7423, 40.0123] } },
+    { "type": "Feature", "properties": { "name": "Bellbrook" }, "geometry": { "type": "Point", "coordinates": [-84.0724, 39.6367] } },
+    { "type": "Feature", "properties": { "name": "Bellefontaine" }, "geometry": { "type": "Point", "coordinates": [-83.7597, 40.3612] } },
+    { "type": "Feature", "properties": { "name": "Bennetts Corners" }, "geometry": { "type": "Point", "coordinates": [-81.7610, 41.2651] } },
+    { "type": "Feature", "properties": { "name": "Berea" }, "geometry": { "type": "Point", "coordinates": [-81.8543, 41.3662] } },
+    { "type": "Feature", "properties": { "name": "Bexley" }, "geometry": { "type": "Point", "coordinates": [-82.9377, 39.9690] } },
+    { "type": "Feature", "properties": { "name": "Bluffton" }, "geometry": { "type": "Point", "coordinates": [-83.8919, 40.8939] } },
+    { "type": "Feature", "properties": { "name": "Bowersville" }, "geometry": { "type": "Point", "coordinates": [-83.7224, 39.5817] } },
+    { "type": "Feature", "properties": { "name": "Bowling Green" }, "geometry": { "type": "Point", "coordinates": [-83.6502, 41.3748] } },
+    { "type": "Feature", "properties": { "name": "Bradford" }, "geometry": { "type": "Point", "coordinates": [-84.4344, 40.1317] } },
+    { "type": "Feature", "properties": { "name": "Bryan" }, "geometry": { "type": "Point", "coordinates": [-84.5516, 41.4673] } },
+    { "type": "Feature", "properties": { "name": "Bucyrus" }, "geometry": { "type": "Point", "coordinates": [-82.9755, 40.8084] } },
+    { "type": "Feature", "properties": { "name": "Cadiz" }, "geometry": { "type": "Point", "coordinates": [-80.9823, 40.2723] } },
+    { "type": "Feature", "properties": { "name": "Camden" }, "geometry": { "type": "Point", "coordinates": [-84.6469, 39.6309] } },
+    { "type": "Feature", "properties": { "name": "Canton" }, "geometry": { "type": "Point", "coordinates": [-81.3784, 40.7989] } },
+    { "type": "Feature", "properties": { "name": "Castine" }, "geometry": { "type": "Point", "coordinates": [-84.6225, 39.9275] } },
+    { "type": "Feature", "properties": { "name": "Celina" }, "geometry": { "type": "Point", "coordinates": [-84.5702, 40.5489] } },
+    { "type": "Feature", "properties": { "name": "Chagrin Falls" }, "geometry": { "type": "Point", "coordinates": [-81.3918, 41.4337] } },
+    { "type": "Feature", "properties": { "name": "Chillicothe" }, "geometry": { "type": "Point", "coordinates": [-82.9832, 39.3331] } },
+    { "type": "Feature", "properties": { "name": "Cincinnati" }, "geometry": { "type": "Point", "coordinates": [-84.5120, 39.1031] } },
+    { "type": "Feature", "properties": { "name": "Cleveland" }, "geometry": { "type": "Point", "coordinates": [-81.6944, 41.4993] } },
+    { "type": "Feature", "properties": { "name": "Cleveland Heights" }, "geometry": { "type": "Point", "coordinates": [-81.5554, 41.5201] } },
+    { "type": "Feature", "properties": { "name": "Columbus" }, "geometry": { "type": "Point", "coordinates": [-82.9988, 39.9612] } },
+    { "type": "Feature", "properties": { "name": "Dayton" }, "geometry": { "type": "Point", "coordinates": [-84.1916, 39.7589] } },
+    { "type": "Feature", "properties": { "name": "Defiance" }, "geometry": { "type": "Point", "coordinates": [-84.3608, 41.2842] } },
+    { "type": "Feature", "properties": { "name": "Delaware" }, "geometry": { "type": "Point", "coordinates": [-83.0677, 40.2987] } },
+    { "type": "Feature", "properties": { "name": "Delphos" }, "geometry": { "type": "Point", "coordinates": [-84.3411, 40.8442] } },
+    { "type": "Feature", "properties": { "name": "Dover" }, "geometry": { "type": "Point", "coordinates": [-81.4754, 40.5209] } },
+    { "type": "Feature", "properties": { "name": "East Liverpool" }, "geometry": { "type": "Point", "coordinates": [-80.5795, 40.6187] } },
+    { "type": "Feature", "properties": { "name": "Elyria" }, "geometry": { "type": "Point", "coordinates": [-82.1032, 41.3684] } },
+    { "type": "Feature", "properties": { "name": "Euclid" }, "geometry": { "type": "Point", "coordinates": [-81.5268, 41.5931] } },
+    { "type": "Feature", "properties": { "name": "Findlay" }, "geometry": { "type": "Point", "coordinates": [-83.6499, 41.0442] } },
+    { "type": "Feature", "properties": { "name": "Fostoria" }, "geometry": { "type": "Point", "coordinates": [-83.4174, 41.1573] } },
+    { "type": "Feature", "properties": { "name": "Frankfort" }, "geometry": { "type": "Point", "coordinates": [-83.1818, 39.4017] } },
+    { "type": "Feature", "properties": { "name": "Gallipolis" }, "geometry": { "type": "Point", "coordinates": [-82.1907, 38.8137] } },
+    { "type": "Feature", "properties": { "name": "Gambier" }, "geometry": { "type": "Point", "coordinates": [-82.3963, 40.3756] } },
+    { "type": "Feature", "properties": { "name": "Garrettsville" }, "geometry": { "type": "Point", "coordinates": [-81.0940, 41.2842] } },
+    { "type": "Feature", "properties": { "name": "Georgetown" }, "geometry": { "type": "Point", "coordinates": [-83.9033, 38.8637] } },
+    { "type": "Feature", "properties": { "name": "Granville" }, "geometry": { "type": "Point", "coordinates": [-82.5177, 40.0681] } },
+    { "type": "Feature", "properties": { "name": "Greenville" }, "geometry": { "type": "Point", "coordinates": [-84.6330, 40.1028] } },
+    { "type": "Feature", "properties": { "name": "Hamilton" }, "geometry": { "type": "Point", "coordinates": [-84.5613, 39.3995] } },
+    { "type": "Feature", "properties": { "name": "Hicksville" }, "geometry": { "type": "Point", "coordinates": [-84.7619, 41.2931] } },
+    { "type": "Feature", "properties": { "name": "Hillsboro" }, "geometry": { "type": "Point", "coordinates": [-83.6116, 39.2023] } },
+    { "type": "Feature", "properties": { "name": "Homer" }, "geometry": { "type": "Point", "coordinates": [-82.6841, 40.2520] } },
+    { "type": "Feature", "properties": { "name": "Horse Cave Creek, Meigs County" }, "geometry": { "type": "Point", "coordinates": [-81.9337, 39.0667] } },
+    { "type": "Feature", "properties": { "name": "Hudson" }, "geometry": { "type": "Point", "coordinates": [-81.4407, 41.2401] } },
+    { "type": "Feature", "properties": { "name": "Huntsburg" }, "geometry": { "type": "Point", "coordinates": [-81.0773, 41.5173] } },
+    { "type": "Feature", "properties": { "name": "Ironton" }, "geometry": { "type": "Point", "coordinates": [-82.6715, 38.5365] } },
+    { "type": "Feature", "properties": { "name": "Kent" }, "geometry": { "type": "Point", "coordinates": [-81.3579, 41.1537] } },
+    { "type": "Feature", "properties": { "name": "Kenwood" }, "geometry": { "type": "Point", "coordinates": [-84.3752, 39.1989] } },
+    { "type": "Feature", "properties": { "name": "Kilbourne" }, "geometry": { "type": "Point", "coordinates": [-82.9555, 40.3342] } },
+    { "type": "Feature", "properties": { "name": "Kinsman" }, "geometry": { "type": "Point", "coordinates": [-80.5898, 41.4489] } },
+    { "type": "Feature", "properties": { "name": "Lakewood" }, "geometry": { "type": "Point", "coordinates": [-81.7985, 41.4817] } },
+    { "type": "Feature", "properties": { "name": "Lancaster" }, "geometry": { "type": "Point", "coordinates": [-82.6066, 39.7137] } },
+    { "type": "Feature", "properties": { "name": "Lorain" }, "geometry": { "type": "Point", "coordinates": [-82.1824, 41.4528] } },
+    { "type": "Feature", "properties": { "name": "Luray" }, "geometry": { "type": "Point", "coordinates": [-82.5446, 39.9576] } },
+    { "type": "Feature", "properties": { "name": "Mansfield" }, "geometry": { "type": "Point", "coordinates": [-82.5154, 40.7584] } },
+    { "type": "Feature", "properties": { "name": "Maple Heights" }, "geometry": { "type": "Point", "coordinates": [-81.5540, 41.4037] } },
+    { "type": "Feature", "properties": { "name": "Marietta" }, "geometry": { "type": "Point", "coordinates": [-81.4507, 39.4154] } },
+    { "type": "Feature", "properties": { "name": "Marion" }, "geometry": { "type": "Point", "coordinates": [-83.1288, 40.5887] } },
+    { "type": "Feature", "properties": { "name": "Massillon" }, "geometry": { "type": "Point", "coordinates": [-81.5193, 40.7967] } },
+    { "type": "Feature", "properties": { "name": "Medina" }, "geometry": { "type": "Point", "coordinates": [-81.8632, 41.1384] } },
+    { "type": "Feature", "properties": { "name": "Mentor" }, "geometry": { "type": "Point", "coordinates": [-81.3398, 41.6662] } },
+    { "type": "Feature", "properties": { "name": "Minerva" }, "geometry": { "type": "Point", "coordinates": [-81.1034, 40.7303] } },
+    { "type": "Feature", "properties": { "name": "Mingo Junction" }, "geometry": { "type": "Point", "coordinates": [-80.6090, 40.3184] } },
+    { "type": "Feature", "properties": { "name": "Morrow County" }, "geometry": { "type": "Point", "coordinates": [-82.7987, 40.5255] } },
+    { "type": "Feature", "properties": { "name": "Mount Gilead" }, "geometry": { "type": "Point", "coordinates": [-82.6841, 40.5476] } },
+    { "type": "Feature", "properties": { "name": "Mount Healthy" }, "geometry": { "type": "Point", "coordinates": [-84.5458, 39.2334] } },
+    { "type": "Feature", "properties": { "name": "Mount Vernon" }, "geometry": { "type": "Point", "coordinates": [-82.4857, 40.3934] } },
+    { "type": "Feature", "properties": { "name": "New Lexington" }, "geometry": { "type": "Point", "coordinates": [-82.2096, 39.7126] } },
+    { "type": "Feature", "properties": { "name": "Newark" }, "geometry": { "type": "Point", "coordinates": [-82.4013, 40.0581] } },
+    { "type": "Feature", "properties": { "name": "Niles" }, "geometry": { "type": "Point", "coordinates": [-80.7651, 41.1828] } },
+    { "type": "Feature", "properties": { "name": "North Olmsted" }, "geometry": { "type": "Point", "coordinates": [-81.9235, 41.4156] } },
+    { "type": "Feature", "properties": { "name": "Novelty" }, "geometry": { "type": "Point", "coordinates": [-81.3323, 41.4728] } },
+    { "type": "Feature", "properties": { "name": "Oberlin" }, "geometry": { "type": "Point", "coordinates": [-82.2177, 41.2939] } },
+    { "type": "Feature", "properties": { "name": "Oxford" }, "geometry": { "type": "Point", "coordinates": [-84.7452, 39.5070] } },
+    { "type": "Feature", "properties": { "name": "Painesville" }, "geometry": { "type": "Point", "coordinates": [-81.2432, 41.7245] } },
+    { "type": "Feature", "properties": { "name": "Parma" }, "geometry": { "type": "Point", "coordinates": [-81.7232, 41.4048] } },
+    { "type": "Feature", "properties": { "name": "Perrysburg" }, "geometry": { "type": "Point", "coordinates": [-83.6297, 41.5545] } },
+    { "type": "Feature", "properties": { "name": "Poland" }, "geometry": { "type": "Point", "coordinates": [-80.6131, 41.0228] } },
+    { "type": "Feature", "properties": { "name": "Portsmouth" }, "geometry": { "type": "Point", "coordinates": [-83.0029, 38.7317] } },
+    { "type": "Feature", "properties": { "name": "Richfield" }, "geometry": { "type": "Point", "coordinates": [-81.6368, 41.2442] } },
+    { "type": "Feature", "properties": { "name": "Ross" }, "geometry": { "type": "Point", "coordinates": [-84.6533, 39.3117] } },
+    { "type": "Feature", "properties": { "name": "Seaman" }, "geometry": { "type": "Point", "coordinates": [-83.7388, 38.9381] } },
+    { "type": "Feature", "properties": { "name": "Shaker Heights" }, "geometry": { "type": "Point", "coordinates": [-81.5465, 41.4751] } },
+    { "type": "Feature", "properties": { "name": "Silver Lake" }, "geometry": { "type": "Point", "coordinates": [-81.4554, 41.1448] } },
+    { "type": "Feature", "properties": { "name": "South Euclid" }, "geometry": { "type": "Point", "coordinates": [-81.5307, 41.5201] } },
+    { "type": "Feature", "properties": { "name": "Springfield" }, "geometry": { "type": "Point", "coordinates": [-83.8088, 39.9242] } },
+    { "type": "Feature", "properties": { "name": "St. Mary's" }, "geometry": { "type": "Point", "coordinates": [-84.3883, 40.5484] } },
+    { "type": "Feature", "properties": { "name": "Stark County" }, "geometry": { "type": "Point", "coordinates": [-81.3653, 40.8126] } },
+    { "type": "Feature", "properties": { "name": "Steubenville" }, "geometry": { "type": "Point", "coordinates": [-80.6137, 40.3623] } },
+    { "type": "Feature", "properties": { "name": "Stow" }, "geometry": { "type": "Point", "coordinates": [-81.4404, 41.1595] } },
+    { "type": "Feature", "properties": { "name": "Terrence Park" }, "geometry": { "type": "Point", "coordinates": [-84.3013, 39.1462] } },
+    { "type": "Feature", "properties": { "name": "Toledo" }, "geometry": { "type": "Point", "coordinates": [-83.5379, 41.6528] } },
+    { "type": "Feature", "properties": { "name": "Union City" }, "geometry": { "type": "Point", "coordinates": [-84.8119, 40.1998] } },
+    { "type": "Feature", "properties": { "name": "Vermillion" }, "geometry": { "type": "Point", "coordinates": [-82.3532, 41.4173] } },
+    { "type": "Feature", "properties": { "name": "Wapakoneta" }, "geometry": { "type": "Point", "coordinates": [-84.1936, 40.5678] } },
+    { "type": "Feature", "properties": { "name": "Warren" }, "geometry": { "type": "Point", "coordinates": [-80.8181, 41.2376] } },
+    { "type": "Feature", "properties": { "name": "Washington Court House" }, "geometry": { "type": "Point", "coordinates": [-83.4394, 39.5359] } },
+    { "type": "Feature", "properties": { "name": "West Chester" }, "geometry": { "type": "Point", "coordinates": [-84.4072, 39.3323] } },
+    { "type": "Feature", "properties": { "name": "West Salem" }, "geometry": { "type": "Point", "coordinates": [-82.1102, 40.9709] } },
+    { "type": "Feature", "properties": { "name": "Westerville" }, "geometry": { "type": "Point", "coordinates": [-82.9307, 40.1242] } },
+    { "type": "Feature", "properties": { "name": "Williamsfield" }, "geometry": { "type": "Point", "coordinates": [-80.5512, 41.5034] } },
+    { "type": "Feature", "properties": { "name": "Willoughby" }, "geometry": { "type": "Point", "coordinates": [-81.4054, 41.6398] } },
+    { "type": "Feature", "properties": { "name": "Wilmington" }, "geometry": { "type": "Point", "coordinates": [-83.8291, 39.4453] } },
+    { "type": "Feature", "properties": { "name": "Woodington" }, "geometry": { "type": "Point", "coordinates": [-84.6738, 40.1742] } },
+    { "type": "Feature", "properties": { "name": "Wooster" }, "geometry": { "type": "Point", "coordinates": [-81.9351, 40.8051] } },
+    { "type": "Feature", "properties": { "name": "Xenia" }, "geometry": { "type": "Point", "coordinates": [-83.9297, 39.6848] } },
+    { "type": "Feature", "properties": { "name": "Yellow Springs" }, "geometry": { "type": "Point", "coordinates": [-83.8824, 39.8064] } },
+    { "type": "Feature", "properties": { "name": "Youngstown" }, "geometry": { "type": "Point", "coordinates": [-80.6495, 41.0998] } },
+    { "type": "Feature", "properties": { "name": "Zanesville" }, "geometry": { "type": "Point", "coordinates": [-82.0032, 39.9404] } }
   ]
