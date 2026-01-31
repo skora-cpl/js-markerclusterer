@@ -47,10 +47,4 @@ new Loader(getLoaderOptions()).load().then(() => {
       myWindow.open(marker.map, marker);
     });
   });
-
-  const markerCluster = new MarkerClusterer({
-    markers,
-  });
-
-  markerCluster.setMap(map);
 });
